@@ -6,3 +6,5 @@ https://github.com/jaeihyun/ryzen9.git
 개발자 목록
 ryzen9
 dell
+
+chromebook추가
